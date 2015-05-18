@@ -1,3 +1,5 @@
 # chess
-jeu d'echec
+jeu d'echec basique.
+</br>
+<img src="images/terrain.png">
 
